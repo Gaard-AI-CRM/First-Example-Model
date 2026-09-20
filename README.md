@@ -17,6 +17,8 @@ some browsers):
 
 then open http://localhost:8765/index.html
 
+View example page from Claude: https://claude.ai/artifact/5XiH97MJaVRuKwhNXoAThK
+
 ## Where things live
 
 Everything is in `index.html`, in this order. Each section has a header comment.
