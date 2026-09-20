@@ -19,6 +19,8 @@ then open http://localhost:8765/index.html
 
 View example page from Claude: https://claude.ai/artifact/5XiH97MJaVRuKwhNXoAThK
 
+Or try this link: https://gaard-ai-crm.github.io/First-Example-Model/
+
 ## Where things live
 
 Everything is in `index.html`, in this order. Each section has a header comment.
