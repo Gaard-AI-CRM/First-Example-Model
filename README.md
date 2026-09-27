@@ -10,6 +10,10 @@ Everything in `supabase/` has been run end to end on PostgreSQL 16: 6 migrations
 
 ---
 
+
+
+https://gaard-ai-crm.github.io/First-Example-Model/
+
 ## 1. The form: where this lives and why
 
 **Data lives in a managed Postgres database (Supabase), not in a file.** Supabase can be added from
